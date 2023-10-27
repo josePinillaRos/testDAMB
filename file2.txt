@@ -1,1 +1,2 @@
 Otro fichero de texto
+ahora otra linea
